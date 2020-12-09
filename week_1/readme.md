@@ -6,4 +6,9 @@ Paste questions and brief writeup here
 </br>
 <img src="Q1.PNG" align="center"/>
 
+<h1><center> Question 03 </center></h1>
+<p>Here we print lyrics of the song using time library and split() method</p>
+</br>
+<img src="Q3.PNG" align="center"/>
+
 
