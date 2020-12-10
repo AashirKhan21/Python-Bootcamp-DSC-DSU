@@ -6,6 +6,11 @@ Paste questions and brief writeup here
 </br>
 <img src="Q1.PNG" align="center"/>
 
+<h1><center> Question 02 </center></h1>
+<p>Here we print list of student using list and dictionary</p>
+</br>
+<img src="Q2.PNG" align="center"/>
+
 <h1><center> Question 03 </center></h1>
 <p>Here we print lyrics of the song using time library and split() method</p>
 </br>
